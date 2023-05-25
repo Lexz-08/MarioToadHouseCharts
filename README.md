@@ -8,4 +8,5 @@ Everytime the slider's value changes, the chart below the slider will change to 
 Safe zones, highlighted in green, are basically things you can flip panels for that will "immediately" determine which chart you have.
 
 ## Download
-[Standalone](https://github.com/Lexz-08/MarioToadHouseCharts/releases/latest/download/MarioToadHouseCharts.exe)
+[Standalone](https://github.com/Lexz-08/MarioToadHouseCharts/releases/latest/download/MarioToadHouseCharts.zip)
+[Installer](https://github.com/Lexz-08/MarioToadHouseCharts/releases/latest/download/ChartViewerInstaller.exe)
